@@ -44,6 +44,9 @@ a{
 a:hover{
   color: blue;
 }
+button{
+  color: blueviolet;
+}
 
 img{
   /* width: 300px; */
