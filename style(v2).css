@@ -56,3 +56,10 @@ img{
 li {
   margin-bottom: 10px;
 }
+div{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 190px;
+}
